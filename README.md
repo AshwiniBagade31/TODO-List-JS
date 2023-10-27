@@ -19,3 +19,5 @@ A todo list app
 	- checkTodo
 	- renderTodosList
 	- showNotification
+
+![image](https://github.com/AshwiniBagade31/TODO-List-JS/assets/138771268/90ef076b-6ae5-42ec-82fe-4dae52ab76f1)
